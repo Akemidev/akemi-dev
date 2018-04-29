@@ -1,0 +1,8 @@
+{
+  "name": "Akemi-bot",
+  "version": "1.0.0",
+  "description": "Raid signup bot",
+  "main": "bot.js",
+  "author": "Akemi",
+  "dependencies": {}
+}
